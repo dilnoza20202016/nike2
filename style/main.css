@@ -20,7 +20,7 @@ body {
   font-family: Roboto;
 }
 .header__nav {
-  background: #322e41;
+  background: #226b34;
 }
 .header__nav > .container {
   display: flex;
@@ -36,8 +36,8 @@ body {
   display: inline-block;
 }
 .header__link:hover {
-  color: #d47300;
-  background: #fff;
+  color: #503515;
+  background: #a38b8b;
 }
 .header__content {
   height: 90vh;
@@ -62,7 +62,7 @@ body {
 }
 
 .products {
-  background: #ebebeb;
+  background: #268f0c;
 }
 .products__left {
   border-radius: 6px;
